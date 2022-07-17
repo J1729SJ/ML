@@ -1,4 +1,4 @@
-# for MATH38161 coursework 2019 Task B
+# My implementation of the EM Algorithm
 
 
 # EM algorithm for fitting mixture of K one-dimensional normal distributions
